@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_background">#000</color><!-- 1 Black background B: 0%-->
+    <color name="lighter_background_1">#002D33</color><!-- 2 Lighter background 1 B: 20% -->
+    <color name="lighter_background_2">#00444D</color><!-- 3 Lighter background 2 B: 30%-->
+    <color name="darker_ui_element">#005A66</color><!-- 4 Darker UI element B: 40%-->
+    <color name="lighter_ui_element">#007C8C</color><!-- 5 Lighter UI element B: 55% -->
+    <color name="active_ui_element">#0092A6</color> <!-- 6 Active UI element B: 65% -->
+    <color name="accent">#00E1FF</color> <!-- 7 Accent B: 100% S: 50%-->
+    <color name="color_on_background">#FFF</color>
+    <color name="icon_tint">#FFF</color>
+    <color name="color_control_normal">#FFF</color>
+
+</resources>

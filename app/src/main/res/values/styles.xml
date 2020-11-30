@@ -1,0 +1,56 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- New MaterialComponents attributes. -->
+        <item name="colorPrimary">@color/active_ui_element</item>
+        <item name="colorSecondary">@color/darker_ui_element</item>
+        <item name="colorPrimaryDark">@color/lighter_background_1</item>
+        <item name="colorPrimaryVariant">@color/lighter_ui_element</item>
+        <item name="colorSecondaryVariant">@color/darker_ui_element</item>
+        <item name="colorOnSurface">@color/accent</item>
+        <item name="colorOnBackground">@color/color_on_background</item>
+        <item name="colorSurface">@color/darker_ui_element</item>
+
+
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">?colorAccent</item>
+        <item name="colorControlNormal">@color/color_control_normal</item>
+        <!--
+         <item name="colorOnPrimary">@color/my_app_color_on_primary</item>
+                <item name="colorOnBackground">@color/my_app_color_on_background</item>
+                <item name="colorOnError">@color/my_app_color_on_error</item>
+                <item name="colorOnSurface">@color/my_app_color_on_surface</item>
+                <item name="scrimBackground">@color/mtrl_scrim_color</item>
+                -->
+
+
+        <item name="textAppearanceHeadline1">@style/TextAppearance.MaterialComponents.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.MaterialComponents.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.MaterialComponents.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.MaterialComponents.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.MaterialComponents.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.MaterialComponents.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.MaterialComponents.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.MaterialComponents.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.MaterialComponents.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.MaterialComponents.Body2</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.MaterialComponents.Caption</item>
+        <item name="textAppearanceButton">@style/TextAppearance.MaterialComponents.Button</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.MaterialComponents.Overline</item>
+
+
+        <item name="floatingActionButtonStyle">@style/Widget.App.FloatingActionButton</item>
+    </style>
+
+    <style name="Widget.App.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="tint">@color/icon_tint</item>
+        <item name="android:tint">@color/icon_tint</item>
+        <item name="rippleColor">@color/accent</item>
+    </style>
+
+    <style name="TextAppearance.App.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/active_ui_element</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="200dp"
+android:height="200dp"
+android:viewportWidth="640"
+android:viewportHeight="640">
+
+<path
+    android:name="svg_8"
+    android:fillColor="#00000000"
+    android:strokeColor="@color/white"
+    android:strokeWidth="6"
+    android:pathData="M260,573.453 L380,573.453 L380,638.453 L260,638.453 L260,573.453 Z" />
+<path
+    android:name="svg_1"
+    android:fillColor="#000000"
+    android:strokeColor="@color/white"
+    android:strokeWidth="6"
+    android:pathData="M320,60 C493.97,60,635,176.406,635,320 C635,463.594,493.97,580,320,580
+C146.03,580,5,463.594,5,320 C5,176.406,146.03,60,320,60 Z" />
+<path
+    android:name="svg_2"
+    android:fillColor="#00000000"
+    android:strokeColor="@color/white"
+    android:strokeWidth="6"
+    android:pathData="M320,135 C452.548,135,560,217.827,560,320 C560,422.173,452.548,505,320,505
+C187.452,505,80,422.173,80,320 C80,217.827,187.452,135,320,135 Z" />
+<path
+    android:name="svg_3"
+    android:fillColor="#00000000"
+    android:strokeColor="@color/white"
+    android:strokeWidth="6"
+    android:pathData="M320,202 C413.888,202,490,253.487,490,317 C490,380.513,413.888,432,320,432
+C226.112,432,150,380.513,150,317 C150,253.487,226.112,202,320,202 Z" />
+<path
+    android:name="svg_4"
+    android:fillColor="#fff"
+    android:strokeColor="#fff"
+    android:strokeWidth="4"
+    android:pathData="M232,260 C243.046,260,252,286.863,252,320 C252,353.137,243.046,380,232,380
+C220.954,380,212,353.137,212,320 C212,286.863,220.954,260,232,260 Z" />
+<path
+    android:name="svg_5"
+    android:fillColor="#fff"
+    android:strokeColor="#fff"
+    android:strokeWidth="4"
+    android:pathData="M410,259 C421.046,259,430,285.863,430,319 C430,352.137,421.046,379,410,379
+C398.954,379,390,352.137,390,319 C390,285.863,398.954,259,410,259 Z" />
+<path
+    android:name="svg_6"
+    android:fillColor="#000"
+    android:strokeColor="#fff"
+    android:strokeWidth="4"
+    android:pathData="M232,260 C239.456,260,245.5,272.088,245.5,287 C245.5,301.912,239.456,314,232,314
+C224.544,314,218.5,301.912,218.5,287 C218.5,272.088,224.544,260,232,260 Z" />
+<path
+    android:name="svg_7"
+    android:fillColor="#000"
+    android:strokeColor="#fff"
+    android:strokeWidth="4"
+    android:pathData="M410,260 C417.456,260,423.5,272.088,423.5,287 C423.5,301.912,417.456,314,410,314
+C402.544,314,396.5,301.912,396.5,287 C396.5,272.088,402.544,260,410,260 Z" />
+</vector>
